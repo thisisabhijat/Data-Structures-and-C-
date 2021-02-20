@@ -1,0 +1,4 @@
+Segmentation Fault:
+example 1: if array is of size of 10 and you are accessing memory of size of 25 or 30.
+
+example 2: if memory is finished and you are asking for more memory
